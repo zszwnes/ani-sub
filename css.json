@@ -7,7 +7,7 @@
                 "arguments": {
                     "name": "风车动漫",
                     "description": "",
-                    "iconUrl": "https://toolb.cn/favicon/vdm10.com",
+                    "iconUrl": "https://vdm10.com/template/a_0001/images/favicon.png",
                     "searchConfig": {
                         "searchUrl": "https://vdm10.com/search/-------------.html?wd={keyword}",
                         "searchUseOnlyFirstWord": true,
@@ -66,7 +66,7 @@
                 "arguments": {
                     "name": "异世界动漫",
                     "description": "",
-                    "iconUrl": "https://toolb.cn/favicon/www.dmmiku.com",
+                    "iconUrl": "https://www.dmmiku.com/template/conch/asset/img/favicon.png",
                     "searchConfig": {
                         "searchUrl": "https://www.dmmiku.com/index.php/vod/search.html?wd={keyword}&submit=",
                         "searchUseOnlyFirstWord": true,
@@ -125,7 +125,7 @@
                 "arguments": {
                     "name": "喵物次元",
                     "description": "",
-                    "iconUrl": "https://toolb.cn/favicon/www.mwcy.net",
+                    "iconUrl": "https://www.mwcy.net/upload/site/20241103-1/eec404ebd39ac2f18800d8c0d914457e.png",
                     "searchConfig": {
                         "searchUrl": "https://www.mwcy.net/search.html?wd={keyword}",
                         "searchUseOnlyFirstWord": true,
@@ -184,7 +184,7 @@
                 "arguments": {
                     "name": "饭团动漫",
                     "description": "",
-                    "iconUrl": "https://toolb.cn/favicon/acgfta.com",
+                    "iconUrl": "https://acgfta.com/template/ft-v2/icon/acgfantuan-icon-72.png",
                     "searchConfig": {
                         "searchUrl": "https://acgfta.com/search.html?wd={keyword}",
                         "searchUseOnlyFirstWord": true,
@@ -243,7 +243,7 @@
                 "arguments": {
                     "name": "樱之空动漫",
                     "description": "",
-                    "iconUrl": "https://toolb.cn/favicon/skr.skr2.cc:666",
+                    "iconUrl": "https://skr.skr2.cc:666/upload/site/favicon.png",
                     "searchConfig": {
                         "searchUrl": "https://skr.skr2.cc:666/vodsearch/-------------/?wd={keyword}&submit=",
                         "searchUseOnlyFirstWord": true,
@@ -302,7 +302,7 @@
                 "arguments": {
                     "name": "趣动漫",
                     "description": "",
-                    "iconUrl": "https://toolb.cn/favicon/www.qdm66.com",
+                    "iconUrl": "https://www.qdm66.com/favicon.ico",
                     "searchConfig": {
                         "searchUrl": "https://www.qdm66.com/search/-------------.html?wd={keyword}&submit=",
                         "searchUseOnlyFirstWord": true,
